@@ -1,8 +1,6 @@
 
 # From Single Prometheus to AI-Augmented Observability: How We Built a Resilient, Self-Healing DevOps Platform
 
-*By gkfacebookgk · March 22, 2026 · 12 min read*
-
 ---
 
 > **TL;DR:** We transformed our monitoring stack from a single Prometheus instance into a federated, high-availability architecture with three dedicated Prometheus servers, unified by Thanos — and then took it a step further by integrating AI for predictive scaling and automated anomaly remediation.
@@ -544,5 +542,3 @@ graph TB
 **Tags:** `#DevOps` `#Prometheus` `#Thanos` `#AIOps` `#Observability` `#SRE` `#Kubernetes` `#MachineLearning`
 
 ---
-
-*gkfacebookgk is a Lead DevOps Engineer passionate about building resilient, intelligent infrastructure at scale.*
