@@ -318,9 +318,6 @@ sequenceDiagram
 - The AI engine queries Thanos every **5 minutes**, comparing real-time values against predicted baselines
 - When the model predicts a threshold breach **30 minutes to 2 hours ahead**, it fires a **predictive alert** — giving us time to act *before* users are affected
 
-**Real example from production:**
-> On a Friday evening, the AI model predicted that our payment service would exhaust memory within 90 minutes based on a gradual leak pattern. The auto-scaler spun up additional pods while the on-call engineer investigated and deployed a fix — all **before a single user experienced an error**.
-
 ### 🔍 5b. Anomaly Detection & Auto-Remediation
 
 ```mermaid
