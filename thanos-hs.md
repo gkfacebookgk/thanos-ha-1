@@ -447,14 +447,6 @@ graph LR
 
 ---
 
-## 8. What's Next
-
-- **Federated Thanos across regions** — We're expanding to multi-cluster with Thanos Receive for remote-write from edge clusters
-- **LLM-powered root cause analysis** — Using LLMs to correlate anomalies across metrics, logs, and traces for instant RCA summaries
-- **Cost observability** — Adding cost-per-query and cost-per-service metrics into the same Thanos pipeline
-
----
-
 ## Final Architecture Overview
 
 ```mermaid
