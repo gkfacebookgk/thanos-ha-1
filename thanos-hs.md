@@ -1,5 +1,5 @@
 
-# From Single Prometheus to AI-Augmented Observability: How We Built a Resilient, Self-Healing DevOps Platform
+# From Single Prometheus to AI-Augmented Observability: How We Built a Resilient, Self-Healing DevOps Platform 
 
 ---
 
